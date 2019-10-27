@@ -1,6 +1,6 @@
 {
     "forceUpgrade": false,
-    "latestVersion": "1.0",
+    "latestVersion": "1.01",
     "recommendUpgrade": false,
 	"admob": {
 		"banner": {
@@ -9,8 +9,8 @@
 			"banner_id": "ca-app-pub-2856364103582624/5628985068"
 		},
 		"interstitial": {
-			"showAd": false,
-			"interstitial_id": "ca-app-pub-2856364103582624/9185086697"
+			"showAd": true,
+			"interstitial_id": "ca-app-pub-2554810538404024/2633326029"
 		}
 	},
     "Status": "Success"
